@@ -3,7 +3,7 @@
 <img align="center">![](https://www.theodinproject.com/assets/og-logo-022832d4cefeec1d5266237be260192f5980f9bcbf1c9ca151b358f0ce1fd2df.png)</img>
 
 
-<h2 align="center"><a href="https://alesbe.github.io/the-odin-project/">View projects</a></h2>
+<h2 align="center"><a href="link not done</a></h2>
 
 ***
 ## 🛑 Important 🛑
